@@ -25,9 +25,6 @@ html {
 body {
   margin: 0;
 }
-
-body {background:#A8D08D!important;}
-
 main {
   display: block;
 }
@@ -1171,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b430ff;
+  background: #7fffab;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1497,10 +1494,7 @@ pre .javascript .function {
   position: fixed;
   transition-property: bottom;
   z-index: 1300;
-  width: 24px;
-}
-.back-to-top span {
-  display: none;
+  width: initial;
 }
 .back-to-top:hover {
   color: #fc6423;
@@ -2665,4 +2659,7 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: #a8d08d !important;
 }
