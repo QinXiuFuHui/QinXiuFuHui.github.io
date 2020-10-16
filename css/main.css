@@ -25,6 +25,9 @@ html {
 body {
   margin: 0;
 }
+
+body {background:#444!important;}
+
 main {
   display: block;
 }
