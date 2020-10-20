@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffc44a;
+  background: #ff83ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2964,6 +2964,12 @@ span.exturl:hover {
   border-bottom-color: #06a2e4;
   color: #06a2e4;
 }
+#sidebar div.feed-link.motion-element > a {
+  color: #06a2e4;
+}
+#sidebar div.feed-link.motion-element > a i {
+  color: #06a2e4;
+}
 .site-state-item-count {
   color: #06a2e4;
 }
@@ -2985,6 +2991,10 @@ span.exturl:hover {
 ::-moz-selection {
   background: #06a2e4;
   color: #f7f7f7;
+}
+.back-to-top:hover {
+  background: #800080;
+  color: #06a2e4;
 }
 #menu > li.menu-item-active > a {
   color: #06a2e4;
