@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #282630;
+  background: #e9baff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2722,10 +2722,10 @@ pre,
   background: #fc6423;
 }
 .tag-cloud a {
-  box-shadow: 0 1px 3px #6f42c1, 0 1px 2px #d9534f;
+  box-shadow: 0 1px 3px #f5fffa, 0 1px 2px #ff0;
   padding: 2px 10px;
   margin: 8px;
-  background: rgba(193,66,92,0);
+  background: #c1425c;
   border-bottom: none;
   border-radius: 20px;
 }
