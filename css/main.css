@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7aff0e;
+  background: #508eb3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2961,7 +2961,7 @@ span.exturl:hover {
 }
 .sidebar a:hover,
 .sidebar span.exturl:hover {
-  border-bottom-color: #ffd700;
+  border-bottom-color: #06a2e4;
   color: #06a2e4;
 }
 .site-state-item-count {
@@ -2993,18 +2993,6 @@ span.exturl:hover {
 .menu .menu-item a:hover:after,
 .menu .menu-item span.exturl:hover:after {
   background-color: #06a2e4;
-}
-.menu-item-active a,
-.menu .menu-item a:hover,
-.menu .menu-item span.exturl:hover {
-  background: rgba(255,255,255,0);
-  border-bottom-color: rgba(255,255,255,0);
-}
-.sidebar {
-  background: rgba(255,255,255,0);
-}
-.sidebar-inner {
-  background: rgba(255,255,255,0.8);
 }
 .pagination {
   background: rgba(255,255,255,0.8);
