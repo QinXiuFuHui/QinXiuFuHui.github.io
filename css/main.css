@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6330ff;
+  background: #9cc8ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2745,7 +2745,7 @@ pre,
   font-weight: 900;
 }
 .posts-collapse .post-title {
-  margin-left: 70px;
+  margin-left: 7px;
 }
 .posts-collapse::before {
   background-image: linear-gradient(180deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%);
