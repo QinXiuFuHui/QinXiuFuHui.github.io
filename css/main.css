@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffd12f;
+  background: #ffc44a;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2994,6 +2994,18 @@ span.exturl:hover {
 .menu .menu-item span.exturl:hover:after {
   background-color: #06a2e4;
 }
+.menu-item-active a,
+.menu .menu-item a:hover,
+.menu .menu-item span.exturl:hover {
+  background: rgba(255,255,255,0);
+  border-bottom-color: rgba(255,255,255,0);
+}
+.sidebar {
+  background: rgba(255,255,255,0);
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.8);
+}
 .pagination {
   background: rgba(255,255,255,0.8);
 }
@@ -3006,7 +3018,7 @@ span.exturl:hover {
   background: rgba(255,255,255,0);
 }
 .post-block {
-  background: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.8);
 }
 .btn {
   background: rgba(255,255,255,0);
