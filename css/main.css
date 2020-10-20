@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #247394;
+  background: #3b70a8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2895,16 +2895,16 @@ hr {
 }
 .headband {
   height: 3px;
-  background: #06a2e4;
+  background: #ff0;
 }
 .site-meta {
-  background: #06a2e4;
+  background: #fafad2;
 }
 .site-title:hover {
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.2rem;
 }
 .site-subtitle {
-  color: #fff;
+  color: #ff8c00;
 }
 .posts-expand .post-title-link::before {
   content: "";
@@ -2919,9 +2919,6 @@ hr {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
-}
-.posts-expand .post-title-link {
-  color: #06a2e4;
 }
 .btn {
   border: 2px solid #06a2e4;
@@ -2964,7 +2961,7 @@ span.exturl:hover {
 }
 .sidebar a:hover,
 .sidebar span.exturl:hover {
-  border-bottom-color: #06a2e4;
+  border-bottom-color: #ffd700;
   color: #06a2e4;
 }
 .site-state-item-count {
@@ -2988,10 +2985,6 @@ span.exturl:hover {
 ::-moz-selection {
   background: #06a2e4;
   color: #f7f7f7;
-}
-.back-to-top:hover {
-  background: #eee;
-  color: #06a2e4;
 }
 #menu > li.menu-item-active > a {
   color: #06a2e4;
