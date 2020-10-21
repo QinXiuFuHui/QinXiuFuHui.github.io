@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #fff;
+  background: #ffbe46;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2903,9 +2903,6 @@ hr {
 .headband {
   height: 3px;
   background: #ff0;
-}
-.site-meta {
-  background: #fafad2;
 }
 .site-title:hover {
   letter-spacing: 0.2rem;
