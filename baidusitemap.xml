@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://QinXiuFuHui.github.io/2020/10/09/article-title/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://QinXiuFuHui.github.io/2020/10/15/githubpostfree/</loc>
+    <lastmod>2020-10-25</lastmod>
+  </url>
+  <url>
     <loc>https://QinXiuFuHui.github.io/2020/10/18/lunhuianli/</loc>
     <lastmod>2020-10-24</lastmod>
   </url>
@@ -15,13 +23,5 @@
   <url>
     <loc>https://QinXiuFuHui.github.io/2020/10/19/about-yanhuatianze/</loc>
     <lastmod>2020-10-24</lastmod>
-  </url>
-  <url>
-    <loc>https://QinXiuFuHui.github.io/2020/10/15/githubpostfree/</loc>
-    <lastmod>2020-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://QinXiuFuHui.github.io/2020/10/09/article-title/</loc>
-    <lastmod>2020-10-09</lastmod>
   </url>
 </urlset> 
