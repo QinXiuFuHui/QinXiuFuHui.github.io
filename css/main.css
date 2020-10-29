@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #46a8ff;
+  background: #be28d5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3303,4 +3303,29 @@ details img {
   display: inline !important;
   margin: 0 !important;
   max-width: 100% !important;
+}
+@-webkit-keyframes rainbowan {
+  to {
+    background-position: -2000vw;
+  }
+}
+@-moz-keyframes rainbowan {
+  to {
+    background-position: -2000vw;
+  }
+}
+@-webkit-keyframes rainbowan {
+  to {
+    background-position: -2000vw;
+  }
+}
+@-o-keyframes rainbowan {
+  to {
+    background-position: -2000vw;
+  }
+}
+@keyframes rainbowan {
+  to {
+    background-position: -2000vw;
+  }
 }
