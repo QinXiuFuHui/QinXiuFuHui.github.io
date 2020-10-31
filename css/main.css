@@ -4,7 +4,7 @@
   --card-bg-color: #f5f5f5;
   --text-color: #000;
   --blockquote-color: #666;
-  --link-color: #555;
+  --link-color: #6300f1;
   --link-hover-color: #222;
   --brand-color: #fff;
   --brand-hover-color: #fff;
@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4a00f0;
+  background: #c21ba6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
