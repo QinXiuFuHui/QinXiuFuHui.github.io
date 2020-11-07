@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #2effff;
+  background: #d6ff44;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -3021,7 +3021,7 @@ blur-text * {
 .message {
   background-color: #f5f5f5;
   border-radius: 4px;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .message strong {
   color: currentColor;
@@ -3118,7 +3118,7 @@ blur-text * {
   display: flex;
   font-weight: 700;
   justify-content: space-between;
-  line-height: 1.25;
+  line-height: 1.5;
   padding: 0.75em 1em;
   position: relative;
 }
@@ -3169,7 +3169,7 @@ details summary {
   margin: -16px;
   border-radius: 4px;
   color: rgba(68,68,68,0.7);
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-weight: 700;
   position: relative;
   line-height: normal;
