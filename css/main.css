@@ -1213,7 +1213,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #821f0a;
+  background: #ff3e0e;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2740,14 +2740,11 @@ article {
 }
 .post-body h3 {
   background: #5b9600;
-  border-radius: 30px 6px 37px 6px;
+  border-radius: 10px 6px 10px 6px;
   box-shadow: 0 0 0 1px #5f5a4b, 1px 1px 6px 2px rgba(10,10,0,0.5);
   color: #fff;
-  font-size: 15px;
-  line-height: 20px;
   margin: 12px 0 !important;
   padding: 5px 5px 5px 5px;
-  text-shadow: 2px 2px 3px #222;
 }
 pre,
 .highlight {
