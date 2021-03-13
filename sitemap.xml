@@ -1103,13 +1103,6 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/tags/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/</loc>
-    <lastmod>2021-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://qinxiufuhui.github.io/tags/%E6%AD%A3%E8%A7%89%E6%80%BB%E6%8C%81%E5%92%92/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
@@ -1132,6 +1125,13 @@
   
   <url>
     <loc>https://qinxiufuhui.github.io/tags/%E5%B9%B3%E5%AE%9E%E5%AF%BC%E5%B8%88%E4%BD%9C%E5%93%81/</loc>
+    <lastmod>2021-03-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qinxiufuhui.github.io/tags/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1805,7 +1805,7 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E6%80%BB%E6%8C%81%E5%92%92/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1819,7 +1819,7 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E6%80%BB%E6%8C%81%E5%92%92/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1952,7 +1952,7 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/%E5%8D%83%E6%89%8B%E5%8D%83%E7%9C%BC%E5%A4%A7%E6%82%B2%E5%BF%8F%E4%BB%AA/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E6%80%BB%E6%8C%81%E5%92%92/%E8%90%A7%E5%B9%B3%E5%AE%9E%E5%B1%85%E5%A3%AB%E4%BD%9C%E5%93%81/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1966,7 +1966,7 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E6%80%BB%E6%8C%81%E5%92%92/%E8%90%A7%E5%B9%B3%E5%AE%9E%E5%B1%85%E5%A3%AB%E4%BD%9C%E5%93%81/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E6%AD%A3%E8%A7%89%E5%A4%A7%E6%82%B2%E5%BF%8F%E8%A7%86%E9%A2%912013%E5%B9%B4/%E5%8D%83%E6%89%8B%E5%8D%83%E7%9C%BC%E5%A4%A7%E6%82%B2%E5%BF%8F%E4%BB%AA/</loc>
     <lastmod>2021-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
