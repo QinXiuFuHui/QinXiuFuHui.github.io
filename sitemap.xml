@@ -1579,20 +1579,6 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/tags/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/</loc>
-    <lastmod>2021-05-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qinxiufuhui.github.io/tags/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/</loc>
-    <lastmod>2021-05-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://qinxiufuhui.github.io/tags/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
@@ -1608,6 +1594,20 @@
   
   <url>
     <loc>https://qinxiufuhui.github.io/tags/%E7%9C%9F%E5%A6%82/</loc>
+    <lastmod>2021-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qinxiufuhui.github.io/tags/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/</loc>
+    <lastmod>2021-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qinxiufuhui.github.io/tags/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -2393,14 +2393,14 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -2603,14 +2603,14 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E7%82%B9/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E7%82%B9/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -2750,14 +2750,14 @@
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/%E5%94%AF%E8%AF%86/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E7%82%B9/%E7%9C%9F%E5%A6%82/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E6%80%A7%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F/%E7%9C%9F%E5%A6%82%E7%9A%84%E7%89%B9%E7%82%B9/%E7%9C%9F%E5%A6%82/</loc>
+    <loc>https://qinxiufuhui.github.io/categories/%E7%9C%BC%E8%AF%86%E4%B9%9D%E7%BC%98%E7%94%9F/%E5%A4%A7%E4%B9%98%E4%BD%9B%E6%B3%95/%E5%94%AF%E8%AF%86/</loc>
     <lastmod>2021-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
